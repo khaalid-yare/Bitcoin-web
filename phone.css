@@ -1,4 +1,7 @@
 @media(max-width:760px){
+    .toggle_btn{
+        display: block;
+    }
     nav .nav-link,
     nav .Get{
         display: none;

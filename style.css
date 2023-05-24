@@ -26,7 +26,9 @@ nav{
     align-items: center;
     padding-top: 20px;
 }
-
+.toggle_btn{
+    display: none;
+}
 nav ul{
     display: flex;
     gap: 0px 50px;
@@ -176,7 +178,7 @@ nav .Get{
     line-height: 32px;
     font-weight: 400px;
     color: white;
-    background-color: #8364E2;
+    background-color: #403F83;
     padding: 7px 18px;
     display: inline;
     border-radius: 5px;
@@ -605,17 +607,4 @@ footer{
     justify-content: space-around;
     align-items: center;
     padding-top: 30px;
-}
-@media(max-width:760px){
-    nav .nav-link,
-    nav .Get{
-        display: none;
-    }
-    nav .toggle_btn{
-        display: block;
-    }
-    .des{
-        display: block;
-        justify-content: center;
-    }
 }

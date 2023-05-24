@@ -1,0 +1,123 @@
+@media(max-width:760px){
+    nav .nav-link,
+    nav .Get{
+        display: none;
+    }
+    nav .toggle_btn{
+        display: block;
+    }
+    .des{
+        display: block;
+        justify-content: center;
+    }
+    .left-neut .N{
+        font-size: 25px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    .left-neut.p{
+        font-size: 1px;
+        font-weight: bold;
+        line-break: strict;
+    }
+    .wallet{
+        gap: 30px;
+    }
+    .wallet h1{
+        font-size: 40px;
+    }
+    .wallet p{
+        font-size: 17px;
+    }
+    .right-img img{
+        height: 300px;
+        width: 365px;
+        margin-top: 135px;
+    }
+    .boxs1{
+        display: block;
+        margin-bottom: 650px;
+        margin-top: -230px;
+    }
+    .box1{
+        width: 360px;
+        margin-top: 50px;
+    }
+    .About{
+        height: 150vh;
+    }
+    .About1{
+        display: block;
+    }
+    .rigth-pic img{
+        height: 350px;
+        width: 360px;
+        margin-bottom: -100px;
+    }
+    .left-about{
+        text-align: center;
+    }
+    .the-box-ctrl{
+        height: 350vh;
+    }
+    .the-box{
+        width: 360px;
+        margin-bottom: 30px;
+    }
+    .the-boxs{
+        display: block;
+    }
+    .blogs1{
+        height: 260vh;
+        width: 360px;
+    }
+    .blogs{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: 30px;
+        margin-bottom: 30px;
+    }
+    .blog-grid{
+        display: block;
+    }
+    .trade{
+        height: 410vh;
+        width: 360px;
+    }
+    .grid1{
+        display: block;
+    }
+    .traders-box{
+        margin-bottom: 30px;
+        width: 360px;
+    }
+    .tr-box img{
+        height: 400px;
+        width: 360px;
+    }
+    .top-traders{
+        height: 240vh;
+    }
+    .top-trader-grid{
+        display: block;
+    }
+    .con{
+        height: 150vh;
+    }
+    .gap{
+        display: block;
+    }
+    .phone{
+        margin-bottom: 30px;
+        width: 360px;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        width: 360px;
+    }
+    /* body{
+        overflow-x: hidden;
+    } */
+}

@@ -606,3 +606,16 @@ footer{
     align-items: center;
     padding-top: 30px;
 }
+@media(max-width:760px){
+    nav .nav-link,
+    nav .Get{
+        display: none;
+    }
+    nav .toggle_btn{
+        display: block;
+    }
+    .des{
+        display: block;
+        justify-content: center;
+    }
+}
